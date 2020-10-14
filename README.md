@@ -27,3 +27,7 @@ paypal integration: use micropayments, eventually. Will require a separate paypa
 ## host platform
 
 OpenBSD + vmm? It would make life so much easier, if it worked - and it might be mature enough now? https://www.reddit.com/r/openbsd/comments/7qdsya/vmm4_production_use_and_performance/.  VCPUs aren't tied to a single processor, so I can set up more VMs than there are cores on the system. I can't control the speed of the cores, but I can let them scale down when the usage is high. Could work - but Xen would give me fancy dashboards.
+
+## compliance
+
+https://www.lowendtalk.com/discussion/164857/as-a-provider-what-tool-do-you-use-to-catch-a-vps-doing-stuff-not-allowed-in-your-tos See here for a discussion on how to deal with misbehaving VPS guests.
