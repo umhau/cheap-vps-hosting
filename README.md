@@ -15,6 +15,10 @@ https://wpforms.com/docs/how-to-test-paypal-payments-before-accepting-real-payme
 
 paypal integration: use micropayments, eventually. Will require a separate paypal account, and a separate bank account. See: http://pressbin.com/tools/paypal_micropayments/, https://www.paypal.com/us/smarthelp/article/what-are-micropayments-faq664, https://www.paypal-community.com/t5/Merchant-services-Archive/What-is-the-minimum-price-I-can-sell-a-product-for-and-accept/td-p/401060#. I might not actually need a separate account: https://www.paypal.com/us/webapps/mpp/ua/digital-goods-micropayments-agreement.
 
+## backend construction
+
+https://git.sr.ht/~sircmpwn/himitsu safe way to store secret info - alternative to the .csv file
+
 # notes
 
 - Don't forget to geoblock Europe. GDPR will be tricky to deal with. 
