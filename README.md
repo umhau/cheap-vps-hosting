@@ -19,6 +19,8 @@ paypal integration: use micropayments, eventually. Will require a separate paypa
 
 https://git.sr.ht/~sircmpwn/himitsu safe way to store secret info - alternative to the .csv file
 
+https://support.citrix.com/article/CTX117960 How to cap CPU execution cycles per-vm. Be aware of limitations?
+
 # notes
 
 - Don't forget to geoblock Europe. GDPR will be tricky to deal with. 
