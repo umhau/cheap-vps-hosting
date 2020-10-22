@@ -5,6 +5,8 @@ The code to make the cheap vps hosting idea come alive
 
 Rent a VPN, tunnel all traffic through that. Keep the IP address for myself. When I get big enough for a rack, put openbsd on something that can handle the traffic and use that as a firewall.
 
+Hardware: 256GB SSD for VMs, RAID 1 2x3TB HDDS for backup. Simple & easy. 
+
 ## website construction
 
 https://stackoverflow.com/questions/3126072/what-are-the-best-php-input-sanitizing-functions Make sure the website is safe.
