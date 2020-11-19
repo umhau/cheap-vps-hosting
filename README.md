@@ -11,6 +11,8 @@ Hardware: 256GB SSD for VMs, RAID 1 2x3TB HDDS for backup. Simple & easy.
 
 https://stackoverflow.com/questions/3126072/what-are-the-best-php-input-sanitizing-functions Make sure the website is safe.
 
+https://zfs.rent/ https://news.ycombinator.com/item?id=25148000 https://radious.co/philosophy.txt Awesome website that fits the same type of market with the same type of customers and uses the same sort of aesthetics I imagined, but better executed than I would have done. Also their philosophy is to be admired and emulated.
+
 ### payment processing: paypal
 
 https://wpforms.com/docs/how-to-test-paypal-payments-before-accepting-real-payments/ Paypal testing. 
