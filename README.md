@@ -7,6 +7,10 @@ Rent a VPN, tunnel all traffic through that. Keep the IP address for myself. Whe
 
 Hardware: 256GB SSD for VMs, RAID 1 2x3TB HDDS for backup. Simple & easy. 
 
+## networking 
+
+https://tunnelbroker.net/ You could use TunnelBroker.net on top to get IPv6 if they don’t offer it and your use case requires it.  Our free tunnel broker service enables you to reach the IPv6 Internet by tunneling over existing IPv4 connections from your IPv6 enabled host or router to one of our IPv6 routers. 
+
 ## website construction
 
 https://stackoverflow.com/questions/3126072/what-are-the-best-php-input-sanitizing-functions Make sure the website is safe.
