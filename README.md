@@ -38,6 +38,7 @@ https://support.citrix.com/article/CTX117960 How to cap CPU execution cycles per
 
 https://github.com/rgamble/libcsv C csv database tool. Store all customer data in a flat text file that I can easily read. Should be able to have a frontend that assigns a number to each customer, and tracks when the payments expire. One central database? Have a periodic emailer as a separate process for notifying when payments are due, etc. When a customer is 'deleted', move them to a db.deleted.csv file? (if US, otherwise if europe do something else?)
 
+https://libguestfs.org/ libguestfs is a set of tools for accessing and modifying virtual machine (VM) disk images. You can use this for viewing and editing files inside guests, scripting changes to VMs, monitoring disk used/free statistics, creating guests, P2V, V2V, performing backups, cloning VMs, building VMs, formatting disks, resizing disks, and much more. 
 Frontend could be a pretty fast, mostly static html + php.  
 
 Note that BTC fees will drown out the actual profit. Charge by the year for BTC rates. Or find a different coin that works at small scales?
@@ -49,3 +50,4 @@ OpenBSD + vmm? It would make life so much easier, if it worked - and it might be
 ## compliance
 
 https://www.lowendtalk.com/discussion/164857/as-a-provider-what-tool-do-you-use-to-catch-a-vps-doing-stuff-not-allowed-in-your-tos See here for a discussion on how to deal with misbehaving VPS guests. Summary: I think I can stick with just responding to external takedown-type emails.
+
